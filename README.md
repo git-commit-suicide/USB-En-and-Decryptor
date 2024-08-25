@@ -49,7 +49,7 @@ Run the initial encryptor to finish the setup:
 py Inital_Encryptor.py
 ```
 ```
-USB_En_and_Decryptor.py
+py USB_En_and_Decryptor.py
 ```
 Now you can always decrypt your vault from here by running the above command or you make your life easy by converting it into an executable by running:
 ```
