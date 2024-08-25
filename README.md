@@ -10,8 +10,8 @@ Any Python code editor such as [VS code](https://code.visualstudio.com/download)
 ## How to set up
 Copy this repository:
 ```
-git clone https://github.com/EggDogue/USB-file-encryptor.git
-cd USB-file-encryptor
+git clone https://github.com/EggDogue/USB-En-and-Decryptor.git
+cd USB-En-and-Decryptor
 ```
 Install the [cryptography](https://pypi.org/project/cryptography/) library:
 ```
