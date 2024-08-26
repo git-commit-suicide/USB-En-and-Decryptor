@@ -15,11 +15,7 @@ cd USB-En-and-Decryptor
 ```
 Install the [cryptography](https://pypi.org/project/cryptography/) library:
 ```
-pip install cryptography
-```
-If you want to later convert this to an executable file:
-```
-pip install pyinstaller 
+pip install requirements.txt 
 ```
 Create the key:
 ```
